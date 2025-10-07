@@ -1,0 +1,30 @@
+ © Engin ARSLAN 2025 ~ arslanengin.com.tr
+
+YAZILIMCILAR İÇİN ÖZELLEŞTİRİLMİŞ MOUSE TUŞ KISAYOLLARI
+Gereksinimler: 
+ • (https://www.autohotkey.com/) adresinden AutoHotkey'in 2.0 versiyonunu indirin. Direkt kuruluma geçmek isteyenler için ana dizinde bulunan "Kurulum Dosyası" klasörüne exe dosyası bırakılacaktır. 
+
+
+Kurulum Adımları: 
+» AutoHotkey v2.0'ı indirdikten sonra klasörün ana dizininde bulunan "mouse_makro_hy_x6.ahk" adlı dosya çalıştırılırsa mouse'nin makro kısa yolları çalışacaktır. Bilgisayarı her açışınızda bu klasörü çalıştırmakla uğraşmamak için bu dosyayı windows başlangıç olaylarına eklemelisiniz. Bunun için aşağıda verilen talimatları sırasıyla uygulayınız. 
+
+1) "Windows + R" yazıp ardından "shell:startup" komutunu yazıp enterlayın (windows başlangıç olaylarına ulaşacaksınız, bu klasörde bulunan dosya ve programlar bilgisayarınızın her açılışında otomatik olarak çalıştırılır). 
+2) Ana dizinde bulunan "mouse_makro_hy_x6.ahk" adlı dosyayı bu klasör içine taşıyın ardından gönül rahatlığı ile programınızı her açılışta ek iş yapmadan kullanabilirsiniz. 
+
+NOT: Bu programı yalnızca mouse'ında makro tuş bulunan kişiler kullanabilir. Makro tuşlarını merak edenler ana dizinde bulunan "Makro.png" dosyasına göz atabilir. 
+
+
+ÖZELLEŞTİRİLMİŞ MOUSE KISA YOL TUŞ İŞLEVLERİ: 
+
+Visual Studio Community Programında Kısayollar: 
+» İleri Makro Tuşu: Kopyalama (Ctrl + C)
+» Geri Makro Tuşu: Üzerinde çalışılan kodları derleyip çalıştırma (F5)
+» Klavyedeki Q tuşu: Yapıştırma (Ctrl + V)
+
+Visual Studio Code Programında Kısayollar: 
+» İleri Makro Tuşu: Kopyalama (Ctrl + C)
+» Geri Makro Tuşu: Yapıştırma (Ctrl + V)
+
+Geriye Kalan Tüm Yerlerde (Masaüstü, Tarayıcılar..)
+» İleri Makro Tuşu: Kopyalama (Ctrl + C)
+» Geri Makro Tuşu: Yapıştırma (Ctrl + V) 
